@@ -9,10 +9,11 @@ I’m passionate about combining **technology, data, and science** to understand
 
 ## 💻 Tech & Skills
 
-* **Web Development:** HTML, CSS, JavaScript
-* **Programming:** Python (Flask, Matplotlib, Pandas)
-* **Currently learning:** R and CAD and GIS systems (especially **QGIS**)
-* **Interests:** Data analysis, artificial intelligence, physics, and new technologies
+* **Web Development:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, REST APIs
+* **Programming:** Python (Flask, Pandas, Matplotlib, NumPy, SciPy, Seaborn), SQL (SQLite, PostgreSQL), R (in progress)
+* **Other Tools & Concepts:** Basic statistics, Cloud computing concepts, Git, GitHub, Command line / Linux basics, Data visualization tools: Excel, Power BI, Matplotlib, Seaborn.
+* **Currently learning:** Machine Learning, Artificial Intelligence, R, CAD, Advanced GIS techniques
+* **Interests:** Data analysis, AI, physics, new technologies, problem-solving, automation
 
 ---
 
