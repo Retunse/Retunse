@@ -26,10 +26,6 @@ I’m passionate about combining **technology, data, and science** to understand
 ## 🚀 Featured Projects
 
 ### 1. Book manager in R
-<img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/e9461ace-6f8b-4835-9696-9af028f5903a" />
-<img width="960" height="455" alt="image" src="https://github.com/user-attachments/assets/a44738b9-cd8b-4def-bf02-a19378b2c2d0" />
-
-> *Turning pages into data points: An analytics tool to track, visualize, and understand reading habits.*
 
 **About the Project:**
 * Developed for the *Scripting Data Processing* course, this application serves as both a personal library database and an analytical tool. It allows users to track read and "to-read" books while providing deep insights into their literary journey through interactive visualizations.
